@@ -1,0 +1,21 @@
+{
+  "name": "github-dark-gray",
+  "displayName": "github-dark-gray",
+  "description": "A color scheme based in the GitHub's dark default theme with a gray background",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GitHub dark gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GitHub dark gray-color-theme.json"
+      }
+    ]
+  }
+}
